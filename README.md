@@ -3,6 +3,9 @@ This is the first project I will be doing in the ODIN project. This project I wi
 
 
 Image credits:
+
 Image of bistek kapampangan already has credits in the image itself.
 
 Siomai Image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3dyLrZ4yqTM8h3qSvPcqvExkNKeu2nAC6z5DH7pqZkiukiz1jZlKj0ctqprae1CQqSG_M8e_EwmtYtXOu5BbBogA8EzypQDbtzBiWg0wzze2zQe7AMpqGfEkErqewFiq4d5a3b30laFMZ/s1600/Siomai.jpg
+
+Chicken Cordon Bleu Image: https://commons.wikimedia.org/wiki/File:Chicken_cordon_bleu,_Bee%27s_Steak_and_Shake,_Sleman,_Yogyakarta.jpg

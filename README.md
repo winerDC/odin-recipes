@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project I will be doing in the ODIN project. This project I will build a basic recipe website. It will not look good for now since we have not tackled CSS or JavaScript. (May 5, 2026)
